@@ -1,0 +1,1 @@
+.register_area{width:50%;max-width:50%;margin:auto}.register_area .title{font-size:21px;display:flex;justify-content:center;margin-top:80px;margin-bottom:50px}.register_area form textarea{margin-bottom:35px}form input{margin-bottom:25px}form span{color:red;font-size:14px}@media (max-width: 600px){.register_area{width:85%;max-width:85%}}
