@@ -1,0 +1,1 @@
+import{P as s}from"./Prodcucts.5d290f2b.js";import{N as o}from"./Navbar.a7831f7d.js";import{a as t,j as r}from"./index.05f29c45.js";import"./navbar.f2556c7d.js";/* empty css                      */const e=()=>t("div",{className:"full",children:[r(o,{}),r("h1",{children:r("b",{children:"Products"})}),r(s,{})]});export{e as default};
